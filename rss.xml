@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Безопасность в интернете</title>
+        <link>https://site1.ru/</link>
+        <description>Статьи о безопасности в интернете.</description>
+        <item>
+            <title>Купить прокси</title>
+            <link>https://site1.ru/article.html</link>
+            <description>Описание статьи о покупке прокси.</description>
+        </item>
+    </channel>
+</rss>
